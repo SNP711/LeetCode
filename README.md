@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SNP711/LeetCode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [3371-harshad-number](https://github.com/SNP711/LeetCode/tree/master/3371-harshad-number) |
 <!---LeetCode Topics End-->

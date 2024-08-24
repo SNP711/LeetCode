@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SNP711/LeetCode/tree/master/0136-single-number) |
+| [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3371-harshad-number](https://github.com/SNP711/LeetCode/tree/master/3371-harshad-number) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->

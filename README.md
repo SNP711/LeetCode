@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SNP711/LeetCode/tree/master/0258-add-digits) |
 | [3371-harshad-number](https://github.com/SNP711/LeetCode/tree/master/3371-harshad-number) |
 ## Sorting
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SNP711/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SNP711/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

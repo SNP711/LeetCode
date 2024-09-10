@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SNP711/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
 | [2058-concatenation-of-array](https://github.com/SNP711/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
 ## Simulation
 |  |
@@ -49,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/SNP711/LeetCode/tree/master/0812-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

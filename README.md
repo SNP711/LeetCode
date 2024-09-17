@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SNP711/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/SNP711/LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/SNP711/LeetCode/tree/master/0812-rotate-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/SNP711/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/SNP711/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/SNP711/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1137-height-checker](https://github.com/SNP711/LeetCode/tree/master/1137-height-checker) |
 ## Simulation
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SNP711/LeetCode/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/SNP711/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |

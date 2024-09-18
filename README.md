@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SNP711/LeetCode/tree/master/0258-add-digits) |
+| [2556-convert-the-temperature](https://github.com/SNP711/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3371-harshad-number](https://github.com/SNP711/LeetCode/tree/master/3371-harshad-number) |
 ## Sorting
 |  |

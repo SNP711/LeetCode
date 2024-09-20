@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/SNP711/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/SNP711/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/SNP711/LeetCode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/SNP711/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SNP711/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/SNP711/LeetCode/tree/master/0953-reverse-only-letters) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SNP711/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SNP711/LeetCode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/SNP711/LeetCode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/SNP711/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3371-harshad-number](https://github.com/SNP711/LeetCode/tree/master/3371-harshad-number) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SNP711/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/SNP711/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/SNP711/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Number Theory
 |  |
